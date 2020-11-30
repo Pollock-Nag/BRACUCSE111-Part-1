@@ -1,0 +1,10 @@
+17 May 2019 16:27:49 GMT: Log 'EclipseCompiler.txt' opened: 17 May 2019 16:27:49 GMT with name C:\Users\User\Desktop\Lab 1\EclipseCompiler.txt
+21 May 2019 9:50:09 GMT: Log 'EclipseCompiler.txt' opened: 21 May 2019 9:50:09 GMT with name C:\Users\User\Desktop\Lab 1\EclipseCompiler.txt
+21 May 2019 9:50:28 GMT: diagnostics = javax.tools.DiagnosticCollector@17f9c6c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@100099f
+fileObjects = [C:\Users\User\Desktop\Lab 1\task5.java]
+21 May 2019 9:50:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@191c996' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\User\Desktop\Lab 1;C:\Users\User\Desktop\drjava-beta-20160913-225446.exe]
+21 May 2019 9:50:29 GMT: Compiler call returned
+21 May 2019 9:50:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@495e5
+21 May 2019 9:50:29 GMT:  Kind = WARNING
+21 May 2019 9:50:29 GMT: Name = C:\Users\User\Desktop\Lab 1\task5.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
